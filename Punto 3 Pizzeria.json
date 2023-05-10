@@ -1,0 +1,21 @@
+﻿{"Pizza": [  
+    {
+        "nombre": "Napolitana",
+        "masa": "Casera",
+        "ingredientes": [ "Tomate", "Queso", "Jamón", "Salsa"],
+        "precio": 650
+    },
+    { 
+        "nombre": "4 quesos",
+        "masa": "Fina",
+        "ingredientes": [ "Mozzarella", "Gorgonzola", "Parmesano", "Azul"],
+        "precio": 800
+    },
+    { 
+        "nombre": "Especial",
+        "masa": "Gorda",
+        "ingredientes": [ "Mozzarella", "Salsa", "Jamon", "Morron" ],
+        "precio": 600
+    }
+
+]}
