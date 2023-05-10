@@ -1,21 +1,12 @@
-﻿{"Pizza": [  
-    {
-        "nombre": "Napolitana",
-        "masa": "Casera",
-        "ingredientes": [ "Tomate", "Queso", "Jamón", "Salsa"],
-        "precio": 650
-    },
-    { 
-        "nombre": "4 quesos",
-        "masa": "Fina",
-        "ingredientes": [ "Mozzarella", "Gorgonzola", "Parmesano", "Azul"],
-        "precio": 800
-    },
-    { 
-        "nombre": "Especial",
-        "masa": "Gorda",
-        "ingredientes": [ "Mozzarella", "Salsa", "Jamon", "Morron" ],
-        "precio": 600
-    }
-
-]}
+{ 
+	"tamano": "mediana",
+	"precio": 750,
+	"ingredientes": ["champinones", "pepperoni", "albahaca"],
+	"queso_extra": false,
+	"delivery": true,
+	"cliente": {
+		"nombre": "Juan Perez",
+		"telefono": "3516234567",
+		"correo": "juanperez@email.com"
+	}
+}
